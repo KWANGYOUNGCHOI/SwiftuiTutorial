@@ -15,6 +15,7 @@
 		8B718BB324B4AF5200210669 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B718BB124B4AF5200210669 /* LaunchScreen.storyboard */; };
 		8B718BBE24B4AF5200210669 /* SwiftuiTutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B718BBD24B4AF5200210669 /* SwiftuiTutorialTests.swift */; };
 		8B718BC924B4AF5200210669 /* SwiftuiTutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B718BC824B4AF5200210669 /* SwiftuiTutorialUITests.swift */; };
+		8B7A15D624B9A41C00663D08 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B7A15D524B9A41C00663D08 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8B718BC424B4AF5200210669 /* SwiftuiTutorialUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftuiTutorialUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B718BC824B4AF5200210669 /* SwiftuiTutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftuiTutorialUITests.swift; sourceTree = "<group>"; };
 		8B718BCA24B4AF5200210669 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8B7A15D524B9A41C00663D08 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				8B718BA824B4AF4E00210669 /* SceneDelegate.swift */,
 				8B718BAA24B4AF4E00210669 /* ContentView.swift */,
 				8B718BAC24B4AF5200210669 /* Assets.xcassets */,
+				8B7A15D524B9A41C00663D08 /* CircleImage.swift */,
 				8B718BB124B4AF5200210669 /* LaunchScreen.storyboard */,
 				8B718BB424B4AF5200210669 /* Info.plist */,
 				8B718BAE24B4AF5200210669 /* Preview Content */,
@@ -268,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B718BA724B4AF4E00210669 /* AppDelegate.swift in Sources */,
+				8B7A15D624B9A41C00663D08 /* CircleImage.swift in Sources */,
 				8B718BA924B4AF4E00210669 /* SceneDelegate.swift in Sources */,
 				8B718BAB24B4AF4E00210669 /* ContentView.swift in Sources */,
 			);
