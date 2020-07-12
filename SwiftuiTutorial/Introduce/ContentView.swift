@@ -11,11 +11,11 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            MapView()
+            KwangMapView()
                 .edgesIgnoringSafeArea(.top)
                 .frame(height: 300)
             
-            CircleImage()
+            KwangCircleImage()
                 .offset(y: -130)
                 .padding(.bottom, -130)
             
