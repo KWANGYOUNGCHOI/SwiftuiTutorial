@@ -37,6 +37,7 @@
 		8BA4DAF324C2F69B00DDB02D /* rainbowlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8BA4DAE624C2F69B00DDB02D /* rainbowlake.jpg */; };
 		8BA4DAF424C2F69B00DDB02D /* umbagog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8BA4DAE724C2F69B00DDB02D /* umbagog.jpg */; };
 		8BA4DAF524C2F69B00DDB02D /* hiddenlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8BA4DAE824C2F69B00DDB02D /* hiddenlake.jpg */; };
+		8BA4DAF724C2F95700DDB02D /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA4DAF624C2F95700DDB02D /* UserData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -94,6 +95,7 @@
 		8BA4DAE624C2F69B00DDB02D /* rainbowlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = rainbowlake.jpg; path = ../../../../../../../Downloads/HandlingUserInput/Complete/Landmarks/Landmarks/Resources/rainbowlake.jpg; sourceTree = "<group>"; };
 		8BA4DAE724C2F69B00DDB02D /* umbagog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = umbagog.jpg; path = ../../../../../../../Downloads/HandlingUserInput/Complete/Landmarks/Landmarks/Resources/umbagog.jpg; sourceTree = "<group>"; };
 		8BA4DAE824C2F69B00DDB02D /* hiddenlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = hiddenlake.jpg; path = ../../../../../../../Downloads/HandlingUserInput/Complete/Landmarks/Landmarks/Resources/hiddenlake.jpg; sourceTree = "<group>"; };
+		8BA4DAF624C2F95700DDB02D /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -199,6 +201,7 @@
 			children = (
 				8B7A15D924BB2E7600663D08 /* Landmark.swift */,
 				8B7A15E824BB32AF00663D08 /* Data.swift */,
+				8BA4DAF624C2F95700DDB02D /* UserData.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -412,6 +415,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BA4DAF724C2F95700DDB02D /* UserData.swift in Sources */,
 				8B718BA724B4AF4E00210669 /* AppDelegate.swift in Sources */,
 				8B7A15D624B9A41C00663D08 /* CircleImage.swift in Sources */,
 				8B7A15D824B9A65600663D08 /* MapView.swift in Sources */,
