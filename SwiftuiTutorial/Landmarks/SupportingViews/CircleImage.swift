@@ -1,10 +1,3 @@
-//
-//  CircleImage.swift
-//  SwiftuiTutorial
-//
-//  Created by CHOI KWANGYOUNG on 2020/07/11.
-//  Copyright © 2020 CHOI KWANGYOUNG. All rights reserved.
-//
 
 import SwiftUI
 

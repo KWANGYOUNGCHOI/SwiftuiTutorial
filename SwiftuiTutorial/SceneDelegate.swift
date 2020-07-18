@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  SwiftuiTutorial
-//
-//  Created by CHOI KWANGYOUNG on 2020/07/07.
-//  Copyright © 2020 CHOI KWANGYOUNG. All rights reserved.
-//
 
 import UIKit
 import SwiftUI
@@ -21,7 +14,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // Use a UIHostingController as window root view controller.
         if let windowScene = scene as? UIWindowScene {
             let window = UIWindow(windowScene: windowScene)
-            window.rootViewController = UIHostingController(rootView: LandmarkList())
+            window.rootViewController = UIHostingController(rootView: LandmarkList().environmentObject(UserData()))
             self.window = window
             window.makeKeyAndVisible()
         }

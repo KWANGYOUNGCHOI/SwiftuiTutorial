@@ -1,10 +1,3 @@
-//
-//  Data.swift
-//  SwiftuiTutorial
-//
-//  Created by CHOI KWANGYOUNG on 2020/07/12.
-//  Copyright © 2020 CHOI KWANGYOUNG. All rights reserved.
-//
 
 import UIKit
 import SwiftUI
