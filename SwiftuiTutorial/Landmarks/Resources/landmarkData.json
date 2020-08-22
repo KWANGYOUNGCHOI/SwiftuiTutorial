@@ -163,20 +163,5 @@
             "latitude": 37.91531
         },
         "imageName": "chincoteague"
-    },
-    {
-        "name": "Lake Umbagog",
-        "category": "Lakes",
-        "city": "Errol",
-        "state": "New Hampshire",
-        "id": 1012,
-        "isFeatured": true,
-        "isFavorite": false,
-        "park": "Umbagog National Wildlife Refuge",
-        "coordinates": {
-            "longitude": -71.056816,
-            "latitude": 44.747408
-        },
-        "imageName": "umbagog"
     }
 ]
